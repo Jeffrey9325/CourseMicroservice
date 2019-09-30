@@ -1,0 +1,54 @@
+[30-09-2019 15:39:02.881][INFO ]: No active profile set, falling back to default profiles: default
+[30-09-2019 15:39:04.325][INFO ]: Bootstrapping Spring Data repositories in DEFAULT mode.
+[30-09-2019 15:39:04.398][INFO ]: Finished Spring Data repository scanning in 67ms. Found 1 repository interfaces.
+[30-09-2019 15:39:04.404][INFO ]: Bootstrapping Spring Data repositories in DEFAULT mode.
+[30-09-2019 15:39:04.411][INFO ]: Finished Spring Data repository scanning in 7ms. Found 0 repository interfaces.
+[30-09-2019 15:39:04.679][INFO ]: BeanFactory id=81a429f8-4fcd-3233-aece-486b06b13b81
+[30-09-2019 15:39:04.770][INFO ]: Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$185a442] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[30-09-2019 15:39:05.628][INFO ]: Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+[30-09-2019 15:39:06.363][INFO ]: Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+[30-09-2019 15:39:06.402][INFO ]: Opened connection [connectionId{localValue:2, serverValue:34}] to localhost:27017
+[30-09-2019 15:39:06.410][INFO ]: Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 2, 0]}, minWireVersion=0, maxWireVersion=8, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=3858051}
+[30-09-2019 15:39:06.642][INFO ]: Opened connection [connectionId{localValue:1, serverValue:35}] to localhost:27017
+[30-09-2019 15:39:06.645][INFO ]: Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[4, 2, 0]}, minWireVersion=0, maxWireVersion=8, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=2506256}
+[30-09-2019 15:39:06.665][WARN ]: Unable to start LiveReload server
+[30-09-2019 15:39:07.472][INFO ]: Exposing 19 endpoint(s) beneath base path '/actuator'
+[30-09-2019 15:39:07.601][WARN ]: No URLs will be polled as dynamic configuration sources.
+[30-09-2019 15:39:07.602][INFO ]: To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[30-09-2019 15:39:07.611][WARN ]: No URLs will be polled as dynamic configuration sources.
+[30-09-2019 15:39:07.611][INFO ]: To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+[30-09-2019 15:39:08.835][INFO ]: Documentation plugins bootstrapped
+[30-09-2019 15:39:08.847][INFO ]: Found 1 custom documentation plugin(s)
+[30-09-2019 15:39:08.892][INFO ]: Scanning for api listing references
+[30-09-2019 15:39:09.160][INFO ]: Generating unique operation named: handleUsingGET_1
+[30-09-2019 15:39:09.214][INFO ]: Generating unique operation named: handleUsingGET_2
+[30-09-2019 15:39:09.268][INFO ]: Generating unique operation named: handleUsingGET_3
+[30-09-2019 15:39:09.353][INFO ]: Generating unique operation named: handleUsingGET_4
+[30-09-2019 15:39:09.399][INFO ]: Generating unique operation named: handleUsingDELETE_1
+[30-09-2019 15:39:09.432][INFO ]: Generating unique operation named: handleUsingGET_5
+[30-09-2019 15:39:09.462][INFO ]: Generating unique operation named: handleUsingGET_6
+[30-09-2019 15:39:09.493][INFO ]: Generating unique operation named: handleUsingGET_7
+[30-09-2019 15:39:09.536][INFO ]: Generating unique operation named: handleUsingDELETE_2
+[30-09-2019 15:39:09.581][INFO ]: Generating unique operation named: handleUsingGET_8
+[30-09-2019 15:39:09.629][INFO ]: Generating unique operation named: handleUsingGET_9
+[30-09-2019 15:39:09.659][INFO ]: Generating unique operation named: handleUsingGET_10
+[30-09-2019 15:39:09.693][INFO ]: Generating unique operation named: handleUsingGET_11
+[30-09-2019 15:39:09.738][INFO ]: Generating unique operation named: handleUsingGET_12
+[30-09-2019 15:39:09.783][INFO ]: Generating unique operation named: handleUsingGET_13
+[30-09-2019 15:39:09.824][INFO ]: Generating unique operation named: handleUsingGET_14
+[30-09-2019 15:39:09.865][INFO ]: Generating unique operation named: handleUsingGET_15
+[30-09-2019 15:39:09.913][INFO ]: Generating unique operation named: handleUsingGET_16
+[30-09-2019 15:39:09.959][INFO ]: Generating unique operation named: handleUsingGET_17
+[30-09-2019 15:39:10.017][INFO ]: Generating unique operation named: handleUsingGET_18
+[30-09-2019 15:39:10.060][INFO ]: Generating unique operation named: handleUsingGET_19
+[30-09-2019 15:39:10.098][INFO ]: Generating unique operation named: handleUsingGET_20
+[30-09-2019 15:39:10.138][INFO ]: Generating unique operation named: handleUsingGET_21
+[30-09-2019 15:39:10.174][INFO ]: Generating unique operation named: handleUsingGET_22
+[30-09-2019 15:39:10.218][INFO ]: Generating unique operation named: handleUsingGET_23
+[30-09-2019 15:39:10.495][INFO ]: Generating unique operation named: handleUsingPOST_1
+[30-09-2019 15:39:10.525][INFO ]: Generating unique operation named: handleUsingPOST_2
+[30-09-2019 15:39:10.586][INFO ]: Netty started on port(s): 8084
+[30-09-2019 15:39:11.028][INFO ]: Started CourseMicroserviceApplication in 22.974 seconds (JVM running for 24.223)
+[30-09-2019 15:39:19.423][INFO ]: Opened connection [connectionId{localValue:3, serverValue:36}] to localhost:27017
+[30-09-2019 15:39:35.685][INFO ]: Application shutdown requested.
+[30-09-2019 15:39:35.699][INFO ]: Closed connection [connectionId{localValue:3, serverValue:36}] to localhost:27017 because the pool has been closed.
